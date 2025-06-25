@@ -44,5 +44,5 @@ Built to reconcile inter-regional financial transactions and detect discrepancie
 
 Get in Touch 📬
 
-[LinkedIn](https://linkedin.com/in/enohense-idemudia-b645941b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/enohense-idemudia-b645941b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
