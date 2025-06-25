@@ -13,11 +13,6 @@ My name is Enohense Sandra Idemudia, I'm a backend developer passionate about bu
 
 My skills
 
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-
-
-
-
 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -50,7 +45,7 @@ Built to reconcile inter-regional financial transactions and detect discrepancie
 
 Get in Touch 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/enohense-idemudia-b645941b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://linkedin.com/in/enohense-idemudia-b645941b4)
 
 ![Email](https://img.shields.io/badge/Email-williamssandra803@gmail.com-blue?style=flat-square&logo=gmail)
 
