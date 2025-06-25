@@ -9,10 +9,6 @@ My name is Enohense Sandra Idemudia, I'm a backend developer passionate about bu
 
 🔭 Working on: Monthly account statement automation, system optimization, and report reconciliation
 
-🌍 Languages: C#, SQL, a bit of Python, and English (native speaker)
-
-📫 How to reach me: williamssandra803@gmail.com
-
 ⚡ Fun fact: I transitioned from a finance background into tech, and I still love numbers as much as clean code!
 
 My skills
@@ -45,4 +41,7 @@ Built to reconcile inter-regional financial transactions and detect discrepancie
 Get in Touch 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/enohense-idemudia-b645941b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+![Email](https://img.shields.io/badge/Email-williamssandra803@gmail.com-blue?style=flat-square&logo=gmail)
+
 
